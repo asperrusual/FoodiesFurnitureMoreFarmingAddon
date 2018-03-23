@@ -1,0 +1,25 @@
+{
+  "objectName" : "saladMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "A plain salad.",
+  "shortdescription" : "Salad - Plain",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Floran isn't ssure they should be eating this...",
+  "glitchDescription" : "Unimpressed. Can you really call it a salad if it's only just lettuce?",
+  "novakidDescription" : "Aw, only lettuce? Not even any croutons?",
+
+  "inventoryIcon" : "saladMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "saladMFMobject.png:<color>",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

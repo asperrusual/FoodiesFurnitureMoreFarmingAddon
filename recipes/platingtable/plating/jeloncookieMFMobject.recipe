@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "jeloncookieMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "jeloncookieMFMobject", "count" : 1 },
+  "groups" : [ "platingtable", "plating" ]
+}

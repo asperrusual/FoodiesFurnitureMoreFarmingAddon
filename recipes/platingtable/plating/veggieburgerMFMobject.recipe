@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "veggieburgerMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "veggieburgerMFMobject", "count" : 1 },
+  "groups" : [ "platingtable", "plating" ]
+}

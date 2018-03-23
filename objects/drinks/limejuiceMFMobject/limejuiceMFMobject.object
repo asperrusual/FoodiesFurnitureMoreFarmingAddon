@@ -1,0 +1,25 @@
+{
+  "objectName" : "limejuiceMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "Tart lime juice.",
+  "shortdescription" : "Juice - Lime",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Not ssso sour...",
+  "glitchDescription" : "Relaxed. Not exactly my fare, but it is much less sour than its lemon cousin.",
+  "novakidDescription" : "A good, tart beverage.",
+
+  "inventoryIcon" : "limejuiceMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "limejuiceMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

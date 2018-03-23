@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "aleMFMobject", "count" : 1 }
+  ],
+  "output" : { "item" : "aleMFM", "count" : 1 },
+  "groups" : [ "platingtable", "food" ]
+}

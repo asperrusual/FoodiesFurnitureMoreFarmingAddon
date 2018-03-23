@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "icecreamvanillachocolatechipMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "icecreamvanillachocolatechipMFMobject", "count" : 1 },
+  "groups" : [ "platingtable", "plating" ]
+}

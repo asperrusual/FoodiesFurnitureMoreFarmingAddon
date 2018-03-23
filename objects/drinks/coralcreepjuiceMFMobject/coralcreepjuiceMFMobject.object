@@ -1,0 +1,25 @@
+{
+  "objectName" : "coralcreepjuiceMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "Some coralcreep juice.",
+  "shortdescription" : "Juice - Coralcreep",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Drink is colorful, but ssso salty...",
+  "glitchDescription" : "Unimpressed. Of course this sort of thing would take off with the Hylotl.",
+  "novakidDescription" : "A colorful drink that tastes like seafood. Weird...",
+
+  "inventoryIcon" : "coralcreepjuiceMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "coralcreepjuiceMFMobject.png:<color>",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

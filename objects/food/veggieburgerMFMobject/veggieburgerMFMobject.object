@@ -1,0 +1,25 @@
+{
+  "objectName" : "veggieburgerMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "A vegetarian version of a juicy hamburger.",
+  "shortdescription" : "Burger - Veggie",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Definitely no burger Floran wantss.",
+  "glitchDescription" : "Critical. They didn't even bother trying to dye the tofu...",
+  "novakidDescription" : "I'll pass, thanks.",
+
+  "inventoryIcon" : "veggieburgerMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "veggieburgerMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

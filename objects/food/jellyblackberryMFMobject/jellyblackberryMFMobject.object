@@ -1,0 +1,25 @@
+{
+  "objectName" : "jellyblackberryMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "Jelly made from blackberries.",
+  "shortdescription" : "Jelly - Blackberry",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Jam from sssweet blackberries.",
+  "glitchDescription" : "Informative. Jelly produced from blackberries.",
+  "novakidDescription" : "This looks to be blackberry jelly to me.",
+
+  "inventoryIcon" : "jellyblackberryMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "jellyblackberryMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

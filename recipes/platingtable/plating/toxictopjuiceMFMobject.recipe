@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "toxictopjuiceMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "toxictopjuiceMFMobject", "count" : 1 },
+  "groups" : [ "platingtable", "plating" ]
+}

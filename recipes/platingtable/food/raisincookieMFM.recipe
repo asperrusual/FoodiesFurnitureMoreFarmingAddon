@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "raisincookieMFMobject", "count" : 1 }
+  ],
+  "output" : { "item" : "raisincookieMFM", "count" : 1 },
+  "groups" : [ "platingtable", "food" ]
+}

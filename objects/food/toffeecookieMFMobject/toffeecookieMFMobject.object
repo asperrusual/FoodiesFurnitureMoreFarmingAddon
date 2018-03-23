@@ -1,0 +1,29 @@
+{
+  "objectName" : "toffeecookieMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "Crunchy and sweet.",
+  "shortdescription" : "Toffee Cookie Platter",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "apexDescription" : "Mm. Subtly sweet toffee cookies.",
+  "avianDescription" : "The sweetness of these cookies is a bit milder than others.",
+  "floranDescription" : "Not as sssweet...",
+  "glitchDescription" : "Excited. They smell divine.",
+  "humanDescription" : "Not bad! I prefer chocolate chip, but these'll do.",
+  "hylotlDescription" : "This isn't offensively sweet like most other cookies. I quite like it.",
+  "novakidDescription" : "Cookies with toffee chips.",
+
+  "inventoryIcon" : "toffeecookieMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "toffeecookieMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

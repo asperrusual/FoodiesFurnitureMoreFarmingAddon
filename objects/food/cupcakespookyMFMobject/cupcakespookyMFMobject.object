@@ -1,0 +1,29 @@
+{
+  "objectName" : "cupcakespookyMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cafe","cooking"],
+  "rarity" : "Common",
+  "description" : "Cupcakes with spooky icing,",
+  "shortdescription" : "Cupcakes - Spooky",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "apexDescription" : "So tiny! It's actually kind of adorable.",
+  "avianDescription" : "I could do without all the icing.",
+  "floranDescription" : "Ssso ssspooky... Ssso sweet!",
+  "glitchDescription" : "Concerned. Won't the top cupcakes crush the icing of the bottom one's?",
+  "humanDescription" : "All the flavor of a regular cake, but none of the commitment!",
+  "hylotlDescription" : "Who needs this much sugar, really...",
+  "novakidDescription" : "A bunch of spooky lookin' cupcakes.",
+
+  "inventoryIcon" : "cupcakespookyMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "cupcakespookyMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

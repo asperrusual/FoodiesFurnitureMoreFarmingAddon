@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "cookingoilMFMobject", "count" : 1 }
+  ],
+  "output" : { "item" : "cookingoilMFM", "count" : 1 },
+  "groups" : [ "platingtable", "food" ]
+}

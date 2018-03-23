@@ -1,0 +1,25 @@
+{
+  "objectName" : "tofufriedriceMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "Tofu fried rice, a twist on a Hylotl staple.",
+  "shortdescription" : "Tofu Fried Rice",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "No meats at all... Sssad...",
+  "glitchDescription" : "Critical. This tofu is a poor substitute for the meat this rice rightfully deserves.",
+  "novakidDescription" : "It just don't taste right without meat...",
+
+  "inventoryIcon" : "tofufriedriceMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "tofufriedriceMFMobject.png:<color>",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

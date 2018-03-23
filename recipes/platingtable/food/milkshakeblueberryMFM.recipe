@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "milkshakeblueberryMFMobject", "count" : 1 }
+  ],
+  "output" : { "item" : "milkshakeblueberryMFM", "count" : 1 },
+  "groups" : [ "platingtable", "food" ]
+}

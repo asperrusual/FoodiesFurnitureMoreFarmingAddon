@@ -1,0 +1,25 @@
+{
+  "objectName" : "dragonfruitjuiceMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "Slightly sweet Dragonfruit juice.",
+  "shortdescription" : "Juice - Dragonfruit",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Iss juice made from dragon blood?",
+  "glitchDescription" : "Bemused. An odd juice from an even odder fruit.",
+  "novakidDescription" : "Dragonfruit are real spiky lookin', but this juice looks smooth enough.",
+
+  "inventoryIcon" : "dragonfruitjuiceMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "dragonfruitjuiceMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "objectName" : "eggnogMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "A delicious drink, even when it's not Christmas!",
+  "shortdescription" : "Eggnog",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Thiss doesn't taste like eggs at all...",
+  "glitchDescription" : "Surprised. This drink tastes much different than I suspected.",
+  "novakidDescription" : "A holiday drink. Hopefully someone's spiked this cup.",
+
+  "inventoryIcon" : "eggnogMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "eggnogMFMobject.png:<color>",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version" : "1.0",
+  "tags" : "Furniture And Objects",
+  "author" : "AsPerrUsual",
+  "description" : "Adds placeable foods exclusive to ColonolNutty's More Farming Mod!",
+  "requires" : ["Foodie's Furniture", "MoreFarming"],
+  "name" : "Foodie's Furniture - More Farming Addon",
+  "friendlyName" : "Foodie's Furniture - More Farming Mod Addon",
+  "link" : ""
+}

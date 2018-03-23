@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "bananajuiceMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "bananajuiceMFMobject", "count" : 1 },
+  "groups" : [ "platingtable", "plating" ]
+}

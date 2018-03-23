@@ -1,0 +1,25 @@
+{
+  "objectName" : "bakedsweetpotatoMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "A baked sweet potato.",
+  "shortdescription" : "Baked Sweet Potato",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Sssweet.",
+  "glitchDescription" : "Pleased. It does indeed live up to its name.",
+  "novakidDescription" : "Warmed up, this li'l thing's just heavenly.",
+
+  "inventoryIcon" : "bakedsweetpotatoMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "bakedsweetpotatoMFMobject.png:<color>",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

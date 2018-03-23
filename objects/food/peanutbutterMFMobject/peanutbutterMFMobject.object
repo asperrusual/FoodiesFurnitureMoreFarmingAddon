@@ -1,0 +1,25 @@
+{
+  "objectName" : "peanutbutterMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "Buttery peanut butter, made from peanuts.",
+  "shortdescription" : "Peanut Butter",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Where iss jelly?",
+  "glitchDescription" : "Approving. Simple, but highly versatile.",
+  "novakidDescription" : "You can dip just about anything in there and make it taste loads better.",
+
+  "inventoryIcon" : "peanutbutterMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "peanutbutterMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

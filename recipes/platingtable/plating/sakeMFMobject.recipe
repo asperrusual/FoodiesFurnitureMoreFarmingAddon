@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "sakeMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "sakeMFMobject", "count" : 1 },
+  "groups" : [ "platingtable", "plating" ]
+}

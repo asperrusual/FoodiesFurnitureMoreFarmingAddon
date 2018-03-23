@@ -1,0 +1,25 @@
+{
+  "objectName" : "padthaiMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "A Hylotl dish made of noodles and various ingredients.",
+  "shortdescription" : "Pad Thai",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Sssavory noodles! Yum-yum!",
+  "glitchDescription" : "Begrudging. It frustrates me to say it, but this Hylotl dish is actually quite delightful.",
+  "novakidDescription" : "I'm gonna need a bigger order of this.",
+
+  "inventoryIcon" : "padthaiMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "padthaiMFMobject.png:<color>",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "objectName" : "feathercrownjuiceMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "Mild and sweet feathercrown juice!",
+  "shortdescription" : "Juice - Feathercrown",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Warm birdman drink...",
+  "glitchDescription" : "Knowledgable. Supposedly, these drinks are supposed to be served at room temperature.",
+  "novakidDescription" : "Hopefully that feather garnish won't get caught in my throat...",
+
+  "inventoryIcon" : "feathercrownjuiceMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "feathercrownjuiceMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

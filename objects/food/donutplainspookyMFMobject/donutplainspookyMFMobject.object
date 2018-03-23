@@ -1,0 +1,25 @@
+{
+  "objectName" : "donutplainspookyMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Uncommon",
+  "description" : "Plain rings of fried spooky dough. Spooooky!",
+  "shortdescription" : "Donuts - Plain Spooky",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Ssspooky donuts.",
+  "glitchDescription" : "Doubtful. I have to question the nutritional value of these pastries.",
+  "novakidDescription" : "Spooky-flavored fried dough. About as scary as it sounds.",
+
+  "inventoryIcon" : "donutplainspookyMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "donutplainspookyMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

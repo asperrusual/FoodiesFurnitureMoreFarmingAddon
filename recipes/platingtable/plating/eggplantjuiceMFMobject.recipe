@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "eggplantjuiceMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "eggplantjuiceMFMobject", "count" : 1 },
+  "groups" : [ "platingtable", "plating" ]
+}

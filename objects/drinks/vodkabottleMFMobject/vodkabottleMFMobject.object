@@ -1,0 +1,25 @@
+{
+  "objectName" : "vodkabottleMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "A bottle of vodka.",
+  "shortdescription" : "Alcohol - Vodka",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Iss this drysap for other races...?",
+  "glitchDescription" : "Cautious. Incredibly strong spirits. I should drink it with caution.",
+  "novakidDescription" : "Not meant for the faint of heart... or liver.",
+
+  "inventoryIcon" : "vodkabottleMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "vodkabottleMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

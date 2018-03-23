@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "jellyjelonMFM", "count" : 1 }
+  ],
+  "output" : { "item" : "jellyjelonMFMobject", "count" : 1 },
+  "groups" : [ "platingtable", "plating" ]
+}

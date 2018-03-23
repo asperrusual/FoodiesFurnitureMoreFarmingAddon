@@ -1,0 +1,25 @@
+{
+  "objectName" : "eggplantjuiceMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "Eggplant juice, the juice of a 100 different flavours.",
+  "shortdescription" : "Juice - Eggplant",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Blech! Juice tastes ssso weird!",
+  "glitchDescription" : "Unsure. This color isn't exactly inviting me to drink it.",
+  "novakidDescription" : "What kinda veggie turns out purple juice?",
+
+  "inventoryIcon" : "eggplantjuiceMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "eggplantjuiceMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

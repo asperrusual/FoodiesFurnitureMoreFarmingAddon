@@ -1,0 +1,25 @@
+{
+  "objectName" : "sakeMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "A Hylotl alcoholic drink made from rice.",
+  "shortdescription" : "Sake",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Ssmells sweet...",
+  "glitchDescription" : "Neutral. A sweet Hylotl alcohol.",
+  "novakidDescription" : "What an odd tastin' brew...",
+
+  "inventoryIcon" : "sakeMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "sakeMFMobject.png:<color>",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

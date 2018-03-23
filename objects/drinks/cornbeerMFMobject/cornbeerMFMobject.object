@@ -1,0 +1,25 @@
+{
+  "objectName" : "cornbeerMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "A can of beer made from corn.",
+  "shortdescription" : "Alcohol - Corn Beer",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Yup.",
+  "glitchDescription" : "Relaxed. Yup.",
+  "novakidDescription" : "Mmhmm.",
+
+  "inventoryIcon" : "cornbeerMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "cornbeerMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

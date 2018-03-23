@@ -1,0 +1,25 @@
+{
+  "objectName" : "soymilkMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "Milk made from soy beans.",
+  "shortdescription" : "Soy Milk",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "How do they milk ssoybeans?",
+  "glitchDescription" : "Informative. A milk substitute for those who cannot stomach the standard fare.",
+  "novakidDescription" : "I can't see anyone not lactose intolerant enjoyin' this. It tastes so darn weird!",
+
+  "inventoryIcon" : "soymilkMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "soymilkMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

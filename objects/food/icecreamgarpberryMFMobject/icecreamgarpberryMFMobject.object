@@ -1,0 +1,25 @@
+{
+  "objectName" : "icecreamgarpberryMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "A lovely icecream made with a garpberry-taste. Mmmm.",
+  "shortdescription" : "Ice Cream - Garpberry",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Iss bright blue icy cream.",
+  "glitchDescription" : "Curious. Just how does garpberry ice cream taste? I suppose there's only one way to find out.",
+  "novakidDescription" : "Garpberry, eh? Let's have a little taste, then.",
+
+  "inventoryIcon" : "icecreamgarpberryMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "icecreamgarpberryMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

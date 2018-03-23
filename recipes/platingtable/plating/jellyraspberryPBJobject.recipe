@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "jellyraspberryPBJ", "count" : 1 }
+  ],
+  "output" : { "item" : "jellyraspberryPBJobject", "count" : 1 },
+  "groups" : [ "platingtable", "plating" ]
+}

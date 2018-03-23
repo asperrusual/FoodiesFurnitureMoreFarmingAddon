@@ -1,0 +1,25 @@
+{
+  "objectName" : "icecreamvanillaMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "Vanilla ice cream.",
+  "shortdescription" : "Ice Cream - Vanilla",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Thiss is kind of bland...",
+  "glitchDescription" : "Neutral. Plain vanilla ice cream.",
+  "novakidDescription" : "Doesn't get more basic than this.",
+
+  "inventoryIcon" : "icecreamvanillaMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "icecreamvanillaMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

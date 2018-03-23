@@ -1,0 +1,29 @@
+{
+  "objectName" : "cupcakelemonMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cafe","cooking"],
+  "rarity" : "Common",
+  "description" : "Cupcakes with lemon icing.",
+  "shortdescription" : "Cupcakes - Lemon",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "apexDescription" : "So tiny! It's actually kind of adorable.",
+  "avianDescription" : "I could do without all the icing.",
+  "floranDescription" : "Ssso pretty... Ssso sweet!",
+  "glitchDescription" : "Concerned. Won't the top cupcakes crush the icing of the bottom one's?",
+  "humanDescription" : "All the flavor of a regular cake, but none of the commitment!",
+  "hylotlDescription" : "Who needs this much sugar, really...",
+  "novakidDescription" : "A bunch of pretty lookin' cupcakes.",
+
+  "inventoryIcon" : "cupcakelemonMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "cupcakelemonMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

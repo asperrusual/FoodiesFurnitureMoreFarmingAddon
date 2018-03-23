@@ -1,0 +1,25 @@
+{
+  "objectName" : "lemonjuiceMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "Sour lemon juice.",
+  "shortdescription" : "Juice - Lemon",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Sssour...!",
+  "glitchDescription" : "Cautious. This juice is more likely to be an ingredient to a meal than it is a casual beverage.",
+  "novakidDescription" : "Not meant for drinkin'. Unless you're feelin' mighty brave.",
+
+  "inventoryIcon" : "lemonjuiceMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "lemonjuiceMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

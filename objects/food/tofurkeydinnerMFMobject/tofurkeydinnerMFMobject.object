@@ -1,0 +1,25 @@
+{
+  "objectName" : "tofurkeydinnerMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "A dinner fit for an omniscience fish administrator.",
+  "shortdescription" : "Tofurkey Dinner",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "... Thiss issn't turkey. Turkey not sssquare.",
+  "glitchDescription" : "Cynical. Perfect for disappointing all of your dinner guests.",
+  "novakidDescription" : "That definitely ain't a turkey.",
+
+  "inventoryIcon" : "tofurkeydinnerMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "tofurkeydinnerMFMobject.png:<color>",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "objectName" : "icecreamchocolateMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "Chocolate ice cream.",
+  "shortdescription" : "Ice Cream - Chocolate",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Sssweet milky chocolate ice cream.",
+  "glitchDescription" : "Pleased. This ice cream has a very rich sweetness about it.",
+  "novakidDescription" : "Sweet as can be.",
+
+  "inventoryIcon" : "icecreamchocolateMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "icecreamchocolateMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

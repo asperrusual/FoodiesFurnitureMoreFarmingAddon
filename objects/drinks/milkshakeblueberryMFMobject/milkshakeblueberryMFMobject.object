@@ -1,0 +1,25 @@
+{
+  "objectName" : "milkshakeblueberryMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "A milkshake made with blueberries. Yum!",
+  "shortdescription" : "Milkshake - Blueberry",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Floran will have another!",
+  "glitchDescription" : "Content. Perfectly sweet.",
+  "novakidDescription" : "Should I polish off the whipped cream now or save it for last?",
+
+  "inventoryIcon" : "milkshakeblueberryMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "milkshakeblueberryMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

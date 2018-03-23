@@ -1,0 +1,25 @@
+{
+  "objectName" : "curryriceMFMobject",
+  "printable" : false,
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "description" : "A curry containing rice.",
+  "shortdescription" : "Curry - Rice",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+
+  "floranDescription" : "Mmm... Warm and sssavory.",
+  "glitchDescription" : "Pleased. A warm and filling dish.",
+  "novakidDescription" : "Curry on rice. Warm and fillin'.",
+
+  "inventoryIcon" : "curryriceMFMobjecticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "curryriceMFMobject.png:<color>",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}
